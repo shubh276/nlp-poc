@@ -1,2 +1,2 @@
 # nlp-poc
-Predicting label of google searches related to Globallogic using Natural Language Processing.
+Predicting label of google searches related to a firm using Natural Language Processing.
